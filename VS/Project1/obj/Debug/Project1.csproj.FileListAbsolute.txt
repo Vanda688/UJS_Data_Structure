@@ -1,0 +1,3 @@
+F:\BaiduNetdiskWorkspace\Learn\UJS_DS\VS\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+F:\BaiduNetdiskWorkspace\Learn\UJS_DS\VS\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+F:\BaiduNetdiskWorkspace\Learn\UJS_DS\VS\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
